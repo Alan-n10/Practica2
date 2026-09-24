@@ -1,4 +1,5 @@
-# TareasApp — Ejercicio de la fotografía (Serie 2)
+
+ — Ejercicio 
 
 Cliente Java Swing para el backend descrito en la fotografía:
 - Modelo `Tarea`: id, titulo, descripcion, estado, responsable, fecha_inicio, fecha_fin, fecha_limite.
